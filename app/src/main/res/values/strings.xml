@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReadKidz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="exit">Exit</string>
+    <string name="voice">Choose by voice</string>
+    <string name="title_activity_book_content">BookContent</string>
+    <string name="title_activity_question">Question</string>
+    <string name="title_activity_result">Result</string>
+</resources>

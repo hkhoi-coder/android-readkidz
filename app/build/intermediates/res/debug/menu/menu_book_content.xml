@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="hkhoi.readkidz.BookContent">
+</menu>
+<!-- From: file:/home/hkhoi/Documents/Projects/Android/Mini_ReadKidz/app/src/main/res/menu/menu_book_content.xml -->

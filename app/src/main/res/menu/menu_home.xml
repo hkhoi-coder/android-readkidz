@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Home">
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/shutdown"
+        android:title="@string/exit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/voice_menu"
+        android:title="@string/voice" />
+    <item
+        android:id="@+id/qr"
+        android:title="QR Scan" />
+
+</menu>
